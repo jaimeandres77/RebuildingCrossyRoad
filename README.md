@@ -6,3 +6,9 @@
  C# Unity 2019.4.12f1
  LibreriasDestacadasUtilizadas:
  System.Linq,UnityEngine.UI,UnityEngine.SocialPlatforms.Impi,UnityEngine.SceneManagement. 
+
+Integrantes
+
+Ethan Cmilo Montalvo Montealegre 2175544
+Jaime Andrés Artunduaga 2170752
+Diego Alejandro Grajales 2195110
